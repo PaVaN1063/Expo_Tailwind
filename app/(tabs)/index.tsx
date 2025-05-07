@@ -10,10 +10,9 @@ export default function HomeScreen() {
       <ThemedText >
         Dashboard</ThemedText>
        
-            <button className="rounded-full border bg-light-blue-500 text-black px-4 py-2 cursor-pointer hover:bg-blue-600 hover:text-white">
+            <button className="rounded-full border border-black bg-light-blue-500 text-black px-4 py-2 cursor-pointer hover:bg-blue-600 hover:text-white">
             Add New Plan +
             </button>
-       
      <div>
 
      </div>
